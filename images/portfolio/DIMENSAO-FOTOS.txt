@@ -1,0 +1,20 @@
+http://convert-my-image.com/ImageConverter_Pt
+
+
+
+FOTOS - MODAL
+
+DIM 1050 X 700
+LAR 1050
+AL 700
+
+
+
+
+FOTOS - PRINCIPAL
+
+D 800 X 801
+LAR 800
+AL 801
+
+
