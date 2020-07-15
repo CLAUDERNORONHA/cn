@@ -2,18 +2,30 @@ http://convert-my-image.com/ImageConverter_Pt
 
 
 
-FOTOS - MODAL
+FOTOS - 
+
+https://www.img2go.com/pt/converter-imagem-para-imagem
+
+MODAL
+
+
 
 DIM 1050 X 700
+
+
 LAR 1050
 AL 700
 
 
 
 
-FOTOS - PRINCIPAL
+FOTOS - 
+
+
+PRINCIPAL
 
 D 800 X 801
+
 LAR 800
 AL 801
 
@@ -22,5 +34,14 @@ AL 801
 
 
 
+
+
+
+
 tratar fotos
+
+
+
+
+
 https://pixlr.com/br/x/
